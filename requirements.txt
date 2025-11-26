@@ -1,0 +1,8 @@
+seaborn
+numpy==2.3.5
+pandas==2.3.3
+wordcloud==1.9.4
+matplotlib==3.10.7
+transformers==4.45
+huggingface_hub
+scikit-learn==1.7.2
