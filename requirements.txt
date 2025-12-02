@@ -10,7 +10,9 @@ datasets
 ipywidgets
 pyarrow
 fastparquet
-
-
-
+optuna
+black
+torch
+xgboost
+lightgbm
 # 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
