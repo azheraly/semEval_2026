@@ -1,9 +1,13 @@
+
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.4.1+cu124
 seaborn
 numpy==2.3.5
 pandas==2.3.3
 wordcloud==1.9.4
 matplotlib==3.10.7
-transformers==4.45
+transformers==4.45.0
+accelerate==1.9.0
 huggingface_hub
 scikit-learn==1.7.2
 datasets
@@ -15,9 +19,7 @@ black
 xgboost
 lightgbm
 
-torch==2.4.1+cu118
-accelerate>=0.26.0
---extra-index-url https://download.pytorch.org/whl/cu118
+
 
 
 # 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
