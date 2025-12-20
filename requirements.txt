@@ -18,6 +18,7 @@ optuna
 black
 xgboost
 lightgbm
+peft
 
 
 
