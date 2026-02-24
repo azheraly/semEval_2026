@@ -1,4 +1,4 @@
-# Human vs Machine Generated Code Classification
+# Cross-Domain Detection of Machine-Generated Code via Stylometric Features and Transformer Models
 
 This project focuses on classifying source code into two categories: -
 **Human-written code** - **Machine-generated code** (e.g., GPT, Qwen,
