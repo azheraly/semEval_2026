@@ -43,9 +43,8 @@ Given a code snippet, predict whether it is:
 - All data will be released via:
   - [Kaggle](https://www.kaggle.com/competitions/sem-eval-2026-task-13-subtask-a)  
   - [HuggingFace Datasets](https://huggingface.co/datasets/DaniilOr/SemEval-2026-Task13)
-  - In this GitHub repo as `.parquet` file
 
-- For each subtask:
+- For this subtask:
   - Dataset contains `code`,  `label` (which is label id), and additional meta-data such as programming language (`language`), and the `generator`.
   - Label mappings (`label_to_id.json` and `id_to_label.json`) are provided in each task folder  
 
