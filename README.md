@@ -1,5 +1,7 @@
 # Cross-Domain Detection of Machine-Generated Code via Stylometric Features and Transformer Models
 
+The rise of generative models has made it increasingly difficult to distinguish machine-generated code from human-written code — especially across different programming languages, domains, and generation techniques. 
+
 This Research focuses on classifying source code into two categories: -
 **Human-written code** - **Machine-generated code** (e.g., GPT, Qwen,
 DeepSeek, etc.) The objective is to identify stylistic, structural, and
